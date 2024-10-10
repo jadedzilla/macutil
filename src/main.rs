@@ -34,8 +34,10 @@ fn select_and_run_script() -> io::Result<bool> {
         }
     }
 
+    println!("Macutil by Jadedzilla");
+
     // Display available scripts
-    println!("\nAvailable scripts:");
+    println!("Scripts:");
     for (i, script) in scripts.iter().enumerate() {
         println!("{}. {}", i + 1, script);
     }
@@ -59,7 +61,7 @@ fn select_and_run_script() -> io::Result<bool> {
     }
 
     // Run the selected script
-    let script_path = format!("scripts/{}", scripts[choice - 1]);
+    let _script_path = format!("scripts/{}", scripts[choice - 1]);
     let output = Command::new("sh")
         .current_dir("scripts")  // Set the working directory to "scripts"
         .arg(&scripts[choice - 1])  // Use just the script name, not the full path
