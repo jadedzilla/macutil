@@ -1,5 +1,5 @@
 # Jadedzilla's Mac Utility
-**Macutil** Opinionated CLI utility to configure settings, install apps, and setup macOS
+**Macutil** is an opinionated utility to configure settings, install apps, and setup macOS
 
 > [!NOTE]
 > Since the project is still in active development, you may encounter some issues. Please consider [submitting feedback](https://github.com/jadedzilla/macutil/issues) if you do.
