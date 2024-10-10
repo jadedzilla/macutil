@@ -13,7 +13,7 @@ fn main() {
             },
             Err(e) => {
                 eprintln!("Error: {}", e);
-                // Optionally break or continue here, depending on how you want to handle errors
+                break;
             },
         }
     }
