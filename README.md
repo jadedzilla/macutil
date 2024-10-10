@@ -1,2 +1,2 @@
 # macutil
-Opinionated utility to configure settings, install apps, and setup macOS
+Opinionated CLI utility to configure settings, install apps, and setup macOS
