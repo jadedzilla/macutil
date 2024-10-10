@@ -1,1 +1,5 @@
-.DS_Store
+/target
+/build
+rust/target
+rust/build
+/build/macutil
