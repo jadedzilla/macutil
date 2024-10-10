@@ -2,7 +2,7 @@
 **Macutil** Opinionated CLI utility to configure settings, install apps, and setup macOS
 
 > [!NOTE]
-> Since the project is still in active development, you may encounter some issues. Please consider [submitting feedback](https://github.com/ChrisTitusTech/linutil/issues) if you do.
+> Since the project is still in active development, you may encounter some issues. Please consider [submitting feedback](https://github.com/jadedzilla/macutil/issues) if you do.
 
 
 
